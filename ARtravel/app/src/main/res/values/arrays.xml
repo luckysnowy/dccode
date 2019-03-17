@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list">
+        <item> 设置</item>
+        <item> 关于我们</item>
+    </string-array>
+    <string-array name="listq">
+        <item> 目的地</item>
+        <item> 旅游攻略</item>
+        <item> 寻找伙伴</item>
+        <item> 经验分享</item>
+    </string-array>
+</resources>

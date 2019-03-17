@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Jounery</string>
+    <string name="account_hint">请输入手机号</string>
+    <string name="password_hint">请输入密码</string>
+    <string name="btlog">登录</string>
+    <string name="border_top">Border Top</string>
+    <string name="border_bottom">Border Bottom</string>
+    <string name="image_url">Image Url</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

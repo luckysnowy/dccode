@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:2:70-94
+		INJECTED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml
+		INJECTED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:2:119-144
+		INJECTED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml
+		INJECTED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:2:95-118
+		INJECTED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml
+		INJECTED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:2:145-185
+supports-screens
+ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:3:135-160
+application
+ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:4:3-14:17
+	android:label
+		ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:4:16-48
+	android:icon
+		ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:4:49-80
+activity#com.player.tAR.UnityPlayerActivity
+ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:5:5-10:16
+	android:screenOrientation
+		ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:5:48-84
+	android:label
+		ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:5:15-47
+	android:launchMode
+		ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:5:85-116
+	android:hardwareAccelerated
+		ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:5:299-334
+	android:configChanges
+		ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:5:117-298
+	android:name
+		ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:5:335-384
+meta-data#unity.build-id
+ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:11:5-101
+	android:value
+		ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:11:46-98
+	android:name
+		ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:11:16-45
+meta-data#unity.splash-mode
+ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:12:5-69
+	android:value
+		ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:12:49-66
+	android:name
+		ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:12:16-48
+meta-data#unity.splash-enable
+ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:13:5-74
+	android:value
+		ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:13:51-71
+	android:name
+		ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:13:16-50
+uses-permission#android.permission.CAMERA
+ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:15:3-63
+	android:name
+		ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:15:20-60
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:16:3-79
+	android:name
+		ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:16:20-76
+uses-permission#android.permission.INTERNET
+ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:17:3-65
+	android:name
+		ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:17:20-62
+uses-feature#0x00020000
+ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:18:3-52
+	android:glEsVersion
+		ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:18:17-49
+uses-feature#android.hardware.touchscreen
+ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:19:3-88
+	android:required
+		ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:19:61-85
+	android:name
+		ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:19:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:20:3-99
+	android:required
+		ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:20:72-96
+	android:name
+		ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:20:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:21:3-108
+	android:required
+		ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:21:81-105
+	android:name
+		ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml:21:17-80
+uses-sdk
+INJECTED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml
+INJECTED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml
+INJECTED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml
+INJECTED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml
+		ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml
+		INJECTED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml
+		ADDED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml
+		INJECTED from D:\chushi\ARtravel\tAR\src\main\AndroidManifest.xml
